@@ -39,6 +39,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Nathali-Herpich/Nathali-Herpich/output/snake.svg" alt="Snake animation" />
-
-###
