@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Me chamo Nathali Herpich Valle, tenho 17 anos e sou natural de Porto Alegre, Rio Grande do Sul.Estou na fase de conclusão do ensino médio no Colégio Marista Irmão Jaime Biazus. Atualmente trabalho como jovem aprendiz contrada pelo Grupo Hospitalar Conceição na área de FTI. Me descobri na área da tecnologia recentemente, mas não deixo de ser completamente apaixonada por assuntos relacionados a tecnologia. Tenho um sonho de futuramente compartilhar minhas experiências futuras com pessoas de diferentes idades dando a oportunidade de iniciarem no mundo da programação mesmo com poucos recursos.</p>
+<p align="left">Me chamo Nathali Herpich Valle, tenho 17 anos e sou natural de Porto Alegre, Rio Grande do Sul. Estou na fase de conclusão do ensino médio no Colégio Marista Irmão Jaime Biazus e atualmente trabalho como jovem aprendiz contratada pelo Grupo Hospitalar Conceição em FTI. Me descobri na área da tecnologia recentemente, mas não deixo de ser completamente apaixonada por assuntos relacionados. Tenho um sonho de futuramente compartilhar minhas experiências futuras com pessoas de diferentes idades dando a oportunidade de iniciarem no mundo da programação mesmo com poucos recursos.</p>
 
 ###
 
