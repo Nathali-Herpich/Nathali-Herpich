@@ -49,18 +49,6 @@
 
 
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Nathali-Herpich&theme=jolly&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  
-
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Nathali-Herpich&theme=jolly&hide_border=false" alt="GitHub Streak Stats" />
-
-</div>
-
-<br/>
-
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathali-Herpich&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
