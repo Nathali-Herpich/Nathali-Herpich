@@ -11,7 +11,7 @@
 
 ###
 <P>
-  Me chamo Nathali Herpich Valle, tenho 18 anos e sou natural de Porto Alegre, Rio Grande do Sul. Conclui o ensino médio no ano de 2025 e, atualmente, curso História na PUCRS. Entretanto, não deixo de ser completamente apaixonada por assuntos sobre programação, especialmente Java. Meu sonho atual é poder atuar em sala de aula e utilizar softwares e tecnologias variadas para cativar crianças e jovens durante as aulas.
+  Me chamo Nathali Herpich Valle, tenho 18 anos e sou natural de Porto Alegre, Rio Grande do Sul. Conclui o ensino médio no ano de 2025 e, atualmente, curso História na PUCRS. Entretanto, não deixo de ser completamente apaixonada por assuntos sobre programação, especialmente Java. Meu atual sonho é poder atuar em sala de aula e, utilizar softwares e tecnologias variadas para cativar crianças e jovens durante as aulas.
 </P>
 
 ###
