@@ -11,7 +11,7 @@
 
 ###
 <P>
-  Me chamo Nathali Herpich Valle, tenho 17 anos e sou natural de Porto Alegre, Rio Grande do Sul. Estou na fase de conclusão do ensino médio no Colégio Marista Irmão Jaime Biazus e atualmente trabalho como jovem aprendiz contratada pelo Grupo Hospitalar Conceição em FTI. Me descobri na área da tecnologia recentemente, mas não deixo de ser completamente apaixonada por assuntos relacionados. Tenho um sonho de futuramente compartilhar minhas experiências com pessoas de diferentes idades dando a oportunidade de iniciarem no mundo da programação mesmo com poucos recursos.
+  Me chamo Nathali Herpich Valle, tenho 18 anos e sou natural de Porto Alegre, Rio Grande do Sul. Conclui o ensino médio no ano de 2025 e, atualmente, curso História na PUCRS. Entretanto, não deixo de ser completamente apaixonada por assuntos sobre programação, especialmente Java. Meu sonho atual é poder atuar em sala de aula e utilizar softwares e tecnologias variadas para cativar crianças e jovens durante as aulas.
 </P>
 
 ###
